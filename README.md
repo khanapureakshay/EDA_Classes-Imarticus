@@ -1,2 +1,1 @@
-# EDA_Classes-Imarticus
-EDA_Classes Imarticus
+#  Journey Begins with Python
